@@ -1,4 +1,4 @@
-from application import fakeman, input_fakedata
+from application import input_fakedata
 
 
 def main() -> None:
