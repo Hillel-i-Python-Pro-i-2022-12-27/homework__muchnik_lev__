@@ -1,7 +1,8 @@
-from application import fakeman
+from application import input_fakedata
+
 
 def main() -> None:
-    print(fakeman)
+    print(input_fakedata(10))
 
 
 if __name__ == "__main__":
